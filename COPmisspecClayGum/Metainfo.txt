@@ -15,5 +15,3 @@ Keywords: 'Copula, Gumbel, Clayton, estimation, Kendall’s Tau,
 
 Author: Verena Weber
 
-Submitted:  
-

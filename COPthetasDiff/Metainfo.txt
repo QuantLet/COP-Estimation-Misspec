@@ -18,9 +18,7 @@ Keywords: 'Copula, Gumbel, Frank, Clayton, estimation, maximum-likelihood,
 
 See also: CopDynEst, COPretaparch
 
-Author: Verena Weber
-
-Submitted:  
+Author: Verena Weber  
 
 Datafile: ThetasIndices.txt, ThetasStocks.txt
 

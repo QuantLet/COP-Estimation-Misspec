@@ -17,9 +17,7 @@ Keywords: 'Copula, Gumbel, Frank, Clayton, GoF test'
 
 See also: COPretaparch, CopDynEst, COPapp2residual
 
-Author: Verena Weber
-
-Submitted:  
+Author: Verena Weber 
 
 Datafile: P.ValuesIndices.txt, P.ValuesStocks.txt
 

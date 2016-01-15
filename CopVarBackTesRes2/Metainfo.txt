@@ -20,8 +20,6 @@ See also: CopDynEst, COPretaparch, CopVaRBackTesRes1
 
 Author: Verena Weber
 
-Submitted:  
-
 Datafile:  VaRresStocks.txt
 
 Output:  'Returns two tables: one contains the empirical alpha (exceedances

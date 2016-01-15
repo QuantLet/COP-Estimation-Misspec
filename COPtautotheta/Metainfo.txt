@@ -12,7 +12,5 @@ Keywords: 'Copula, Gumbel, Frank, Clayton, Kendall's tau'
 
 Author:   Verena Weber
 
-Submitted:  
-
 Output:  'Returns a plot of the tau(theta)-functions for various copulas
          over the interval [0, 0.8].'

@@ -20,9 +20,7 @@ See also: COPtautotheta
 
 Author: Verena Weber
 
-Submitted:  
-
-Datafile: ResClaytonLarge0.5.txt, ResClaytonSmall0.5.txt,
-          ResGumbelLarge0.5.txt,  ResGumbelSmall0.5.txt
+Datafile: 'ResClaytonLarge0.5.txt, ResClaytonSmall0.5.txt,
+          ResGumbelLarge0.5.txt,  ResGumbelSmall0.5.txt'
 
 Output: 'Returns boxplots of the distributions of obtained estimates.'

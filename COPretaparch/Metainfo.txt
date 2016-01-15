@@ -21,8 +21,6 @@ See also: CopDynEst
 
 Author: Verena Weber
 
-Submitted:  
-
 Datafile: DataDAXDJTKVW.txt
 
 Output:  'COPretaparch returns tables with the estimations of the mu, 

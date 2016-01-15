@@ -21,14 +21,12 @@ See also: COPtautotheta,  COPSimStuPercRelBiasMix, COPSimStudyResLarge
 
 Author: Verena Weber
 
-Submitted: 
-
-Datafile: ResFrankLarge0.25.txt,   ResFrankLarge0.5.txt,
+Datafile: 'ResFrankLarge0.25.txt,   ResFrankLarge0.5.txt,
           ResFrankLarge0.75.txt,
           ResGumbelLarge0.25.txt,  ResGumbelLarge0.5.txt,
           ResGumbelLarge0.75.txt,
           ResClaytonLarge0.25.txt, ResClaytonLarge0.5.txt,  
-          ResClaytonLarge0.75.txt
+          ResClaytonLarge0.75.txt'
 
 Output:  'Returns a plot of the percentage relative bias for each 
          estimator in combination with each copula as function of 

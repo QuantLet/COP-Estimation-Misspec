@@ -20,11 +20,9 @@ See also: COPtautotheta
 
 Author: Verena Weber
 
-Submitted: 
-
-Datafile: ResMix0.1.txt, ResMix0.2.txt, ResMix0.3.txt, ResMix0.4.txt, 
+Datafile: 'ResMix0.1.txt, ResMix0.2.txt, ResMix0.3.txt, ResMix0.4.txt, 
           ResMix0.5.txt, ResMix0.6.txt, ResMix0.7.txt, ResMix0.8.txt, 
-          ResMix0.9.txt
+          ResMix0.9.txt'
 
 Output: 'Returns a plot of the percentage relative bias for each 
         estimator in combination with each copula as a function 
