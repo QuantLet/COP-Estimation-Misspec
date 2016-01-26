@@ -19,7 +19,7 @@ See also: COPtautotheta, COPSimStuPercRelBiasLarge
 
 Author: Verena Weber  
 
-Datafile: 'ResFrankLarge0.25.txt,   ResFrankLarge0.5.txt,
+Datafile: 'ResFrankLarge0.25.txt,  ResFrankLarge0.5.txt,
           ResFrankLarge0.75.txt,
           ResGumbelLarge0.25.txt,  ResGumbelLarge0.5.txt,
           ResGumbelLarge0.75.txt,
