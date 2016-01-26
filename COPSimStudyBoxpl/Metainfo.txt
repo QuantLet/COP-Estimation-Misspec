@@ -6,7 +6,7 @@ Published in: 'Estimation of the Dependence Parameter in Bivariate Archimedean
 
 Description: 'Returns boxplots of the estimates obtained for the copula depen-
              dence parameter in a simulation study using ML, the inversion of 
-             Kendall's tau and a p-value weighted average of the two estimates 
+             Kendall''s tau and a p-value weighted average of the two estimates 
              in combination with the Gumbel and the Clayton copula. True copula 
              and size of simulated random sample are indicated by the title of 
              each plot. Distribution of estimates obtained using a misspecified 
@@ -14,7 +14,7 @@ Description: 'Returns boxplots of the estimates obtained for the copula depen-
              the true copula are depicted by grey boxplots.'
 
 Keywords: 'Copula, Gumbel, Frank, Clayton, estimation, misspecification,
-           Kendall’s tau, maximum-likelihood ,simulation'
+           Kendall''s tau, maximum-likelihood, simulation'
 
 See also: COPtautotheta
 
