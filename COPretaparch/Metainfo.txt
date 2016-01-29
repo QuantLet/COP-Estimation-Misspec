@@ -15,7 +15,7 @@ Description: 'COPretaparch fits a AR(1)-GJR-GARCH(2,1) model to the daily
              parameters of the distribution of the obtained residuals are
              estimated.'
 
-Keywords:  'ARMA, GARCH, Kolmogorov-Smirnov test, Ljung-Box‚ estimation‘
+Keywords: 'ARMA, GARCH, Kolmogorov-Smirnov test, Ljung-Box, estimation'
 
 See also: CopDynEst
 
@@ -29,4 +29,3 @@ Output:  'COPretaparch returns tables with the estimations of the mu,
          indices. The corresponding standard deviations are given in the
          line below the values. The parameters of the distribution of the
          obtained residuals are also summarised in a table.'
-
