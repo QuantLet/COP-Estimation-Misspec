@@ -11,12 +11,12 @@ Published in : 'Estimation of the Dependence Parameter in Bivariate Archimedean 
 Misspecification'
 
 Description : 'Summarises the results of the simulation study for the large samples. Estimates for
-the copula dependence parameter theta were obtained using ML, the inversion of Kendall's tau, and a
+the copula dependence parameter theta were obtained using ML, the inversion of Kendall''s tau, and a
 p-value weighted average of the two in combination with the Frank, the Gumbel, and the Clayton
 copula. The true copula is indicated by the name of each data matrix. Standard deviations are given
 in the lines below the respective values.'
 
-Keywords : 'Copula, Gumbel, Frank, Clayton, estimation, Kendall's tau, maximum-likelihood,
+Keywords : 'Copula, Gumbel, Frank, Clayton, estimation, Kendall''s tau, maximum-likelihood,
 misspecification, simulation'
 
 See also : COPtautotheta, COPSimStuPercRelBiasLarge
