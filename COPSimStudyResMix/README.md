@@ -12,11 +12,11 @@ Misspecification'
 
 Description : 'Summarises the results of the simulation study for the samples from convex sums of
 Gumbel and Clayton. Estimates for the copula dependence parameter theta were obtained using ML, the
-inversion of Kendall's tau, and a p-value weighted average of the two in combination with the
+inversion of Kendall''s tau, and a p-value weighted average of the two in combination with the
 Frank, the Gumbel, and the Clayton copula. The value of alpha s indicated in the name of each data
 matrix. Standard deviations are given in the lines below the respective values.'
 
-Keywords : 'Copula, Gumbel, Frank, Clayton, estimation, maximum-likelihood, Kendall's tau,
+Keywords : 'Copula, Gumbel, Frank, Clayton, estimation, maximum-likelihood, Kendall''s tau,
 misspecification, simulation'
 
 See also : COPtautotheta, COPSimStuPercRelBiasMix
