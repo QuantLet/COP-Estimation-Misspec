@@ -10,7 +10,7 @@ Name of Quantlet : COPtautotheta
 Published in : 'Estimation of the Dependence Parameter in Bivariate Archimedean Copula Models under
 Misspecification'
 
-Description : 'Plots the dependence parameter theta as a function of Kendall's tau for the Frank,
+Description : 'Plots the dependence parameter theta as a function of Kendall''s tau for the Frank,
 the Gumbel, the Clayton, the Joe, the t-EV, the Galambos, the Husler-Reiss, and the Plackett
 copula.'
 
