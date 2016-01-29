@@ -11,13 +11,13 @@ Published in : 'Estimation of the Dependence Parameter in Bivariate Archimedean 
 Misspecification'
 
 Description : 'Plots the percentage relative bias of the estimates obtained for the copula
-dependence parameter theta in a simulation study using ML, the inversion of Kendall's tau, and a
+dependence parameter theta in a simulation study using ML, the inversion of Kendall''s tau, and a
 p-value weighted average of the two in combination with the Frank, the Gumbel, and the Clayton
 copula. True copula is indicated by the title of each plot. Some estimates were obtained under mis-
 specification. The estimator is indicated by line colour and shape, the copula used in estimation
 is indicated by the fill colour of each shape.'
 
-Keywords : 'Copula, Gumbel, Frank, Clayton, estimation, maximum-likelihood, Kendall's Tau,
+Keywords : 'Copula, Gumbel, Frank, Clayton, estimation, maximum-likelihood, Kendall''s Tau,
 misspecification, simulation'
 
 See also : COPtautotheta, COPSimStuPercRelBiasMix, COPSimStudyResLarge
