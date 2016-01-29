@@ -12,12 +12,12 @@ Misspecification'
 
 Description : 'Calculates the ratio of exceedances and the relative distance between theoretical
 and empirical alpha for VaR estimates obtained using the maximum likelihood estimator, the
-inversion of Kendall's tau and a p-value weighted average of the two in combination with the Frank,
+inversion of Kendall''s tau and a p-value weighted average of the two in combination with the Frank,
 the Gumbel, and the Clayton copula for a series of AR-GJR-GARCH residuals from returns of
 Volkswagen and Thyssen-Krupp. The considered time span is 26.08.2005 to 13.08.2015. The moving
 window is 250.'
 
-Keywords : 'Copula, Gumbel, Frank, Clayton, estimation, dependence, VaR, Kendall's Tau,
+Keywords : 'Copula, Gumbel, Frank, Clayton, estimation, dependence, VaR, Kendall''s Tau,
 maximum-likelihood, GARCH'
 
 See also : CopDynEst, COPretaparch, CopVaRBackTesRes1
