@@ -11,7 +11,7 @@ Published in : 'Estimation of the Dependence Parameter in Bivariate Archimedean 
 Misspecification'
 
 Description : 'Simulates 150 random samples of size 500 from a bivariate Clayton copula and
-estimates the dependence parameter theta via maximum likelihood and the inversion of Kendall's tau
+estimates the dependence parameter theta via maximum likelihood and the inversion of Kendall''s tau
 assuming a Gumbel copula. The obtained estimates are summarised in a table.'
 
 Keywords : Copula, Gumbel, Clayton, estimation, Kendall's Tau, maximum-likelihood, simulation
