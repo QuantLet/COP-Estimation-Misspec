@@ -1,0 +1,37 @@
+
+[<img src="https://github.com/QuantLet/Styleguide-and-Validation-procedure/blob/master/pictures/banner.png" alt="Visit QuantNet">](http://quantlet.de/index.php?p=info)
+
+## [<img src="https://github.com/QuantLet/Styleguide-and-Validation-procedure/blob/master/pictures/qloqo.png" alt="Visit QuantNet">](http://quantlet.de/) **COPSimStudyResLarge** [<img src="https://github.com/QuantLet/Styleguide-and-Validation-procedure/blob/master/pictures/QN2.png" width="60" alt="Visit QuantNet 2.0">](http://quantlet.de/d3/ia)
+
+```yaml
+
+Name of Quantlet : COPSimStudyResLarge
+
+Published in : 'Estimation of the Dependence Parameter in Bivariate Archimedean Copula Models under
+Misspecification'
+
+Description : 'Summarises the results of the simulation study for the large samples. Estimates for
+the copula dependence parameter theta were obtained using ML, the inversion of Kendall's tau, and a
+p-value weighted average of the two in combination with the Frank, the Gumbel, and the Clayton
+copula. The true copula is indicated by the name of each data matrix. Standard deviations are given
+in the lines below the respective values.'
+
+Keywords : 'Copula, Gumbel, Frank, Clayton, estimation, Kendall's tau, maximum-likelihood,
+misspecification, simulation'
+
+See also : COPtautotheta, COPSimStuPercRelBiasLarge
+
+Author : Verena Weber
+
+Datafile : 'ResFrankLarge0.25.txt, ResFrankLarge0.5.txt, ResFrankLarge0.75.txt,
+ResGumbelLarge0.25.txt, ResGumbelLarge0.5.txt, ResGumbelLarge0.75.txt, ResClaytonLarge0.25.txt,
+ResClaytonLarge0.5.txt, ResClaytonLarge0.75.txt'
+
+Output : Returns a table of the summarised results.
+
+```
+
+
+```r
+
+```
