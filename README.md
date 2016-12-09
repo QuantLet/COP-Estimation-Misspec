@@ -1,10 +1,11 @@
+
+[<img src="https://github.com/QuantLet/Styleguide-and-FAQ/blob/master/pictures/banner.png" width="888" alt="Visit QuantNet">](http://quantlet.de/)
+
 # COP-Estimation-Misspec
-R code used in the master thesis "Estimation of the Dependence Parameter in Bivariate
-Archimedean Copula Models Under Misspecification"
+R code used in the master thesis "Estimation of the Dependence Parameter in Bivariate Archimedean Copula Models Under Misspecification"
 
-![http://quantnet.wiwi.hu-berlin.de/style/banner.png](http://quantnet.wiwi.hu-berlin.de/style/banner.png)
 
-## ![qlogo](http://quantnet.wiwi.hu-berlin.de/graphics/quantlogo.png) **[COPapp2residual](https://github.com/QuantLet/COP-Estimation-Misspec/tree/master/COPapp2residual)**
+## [<img src="https://github.com/QuantLet/Styleguide-and-FAQ/blob/master/pictures/qloqo.png" alt="Visit QuantNet">](http://quantlet.de/) **[COPapp2residual](https://github.com/QuantLet/COP-Estimation-Misspec/tree/master/COPapp2residual)**
 
 ## ![qlogo](http://quantnet.wiwi.hu-berlin.de/graphics/quantlogo.png) **[CopDynEst](https://github.com/QuantLet/COP-Estimation-Misspec/tree/master/CopDynEst)**
 
