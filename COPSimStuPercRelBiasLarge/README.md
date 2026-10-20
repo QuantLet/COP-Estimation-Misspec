@@ -7,19 +7,19 @@
 ```
 Name of Quantlet: COPSimStuPercRelBiasLarge
 
-Published in: Estimation of the Dependence Parameter in Bivariate Archimedean
+Published in: Estimation of the Dependence Parameter in Bivariate Archimedean Copula Models under Misspecification
 
-Description: Plots the percentage relative bias of the estimates obtained for
+Description: Plots the percentage relative bias of the estimates obtained for the copula dependence parameter theta in a simulation study using ML, the inversion of Kendall''s tau, and a p-value weighted average of the two in combination with the Frank, the Gumbel, and the Clayton copula. True copula is indicated by the title of each plot. Some estimates were obtained under  mis- specification. The estimator is indicated by line colour and shape, the copula used in estimation is indicated by the fill colour of each shape.
 
-Keywords: Copula, Gumbel, Frank, Clayton, estimation, maximum-likelihood,
+Keywords: Copula, Gumbel, Frank, Clayton, estimation, maximum-likelihood, Kendall''s Tau, misspecification, simulation
 
 See also: COPtautotheta,  COPSimStuPercRelBiasMix, COPSimStudyResLarge
 
 Author: Verena Weber
 
-Datafile: ResFrankLarge0.25.txt,   ResFrankLarge0.5.txt,
+Datafile: ResFrankLarge0.25.txt,   ResFrankLarge0.5.txt, ResFrankLarge0.75.txt, ResGumbelLarge0.25.txt,  ResGumbelLarge0.5.txt, ResGumbelLarge0.75.txt, ResClaytonLarge0.25.txt, ResClaytonLarge0.5.txt, ResClaytonLarge0.75.txt
 
-Output: Returns a plot of the percentage relative bias for each
+Output: Returns a plot of the percentage relative bias for each estimator in combination with each copula as function of the depencence level tau.
 
 ```
 <div align="center">
